@@ -13,4 +13,4 @@ public:
 
 private:
   string name;
-}
+};
